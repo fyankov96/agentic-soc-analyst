@@ -45,18 +45,20 @@ An AI-powered cybersecurity threat hunting assistant that integrates with **Azur
 
 ### **Step 1: Install Python Dependencies**
 ```bash
-git clone https://github.com/yourusername/agentic-soc-analyst.git
+git clone https://github.com/fyankov96/agentic-soc-analyst.git
 cd agentic-soc-analyst
 pip install -r requirements.txt
 ```
 
 ### **Step 2: Install & Configure Azure CLI**
-# Windows: Download from https://aka.ms/installazurecliwindows
-# macOS: brew install azure-cli  
-# Linux: curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
 
-### **Step 2: Install & Configure Azure CLI**
-Download and install Azure CLI, then authenticate with Azure using `az login`
+**Installation:**
+- **Windows:** Download from https://aka.ms/installazurecliwindows
+- **macOS:** `brew install azure-cli`
+- **Linux:** `curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash`
+
+**Authentication:**
+Run `az login` to authenticate with Azure
 
 ### **Step 3: Configure API Keys**
 
