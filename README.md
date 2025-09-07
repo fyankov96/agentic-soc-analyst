@@ -55,8 +55,8 @@ pip install -r requirements.txt
 # macOS: brew install azure-cli  
 # Linux: curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
 
-# Authenticate with Azure
-az login
+### **Step 2: Install & Configure Azure CLI**
+Download and install Azure CLI, then authenticate with Azure using `az login`
 
 ### **Step 3: Configure API Keys**
 
