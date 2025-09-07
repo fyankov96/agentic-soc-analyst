@@ -33,3 +33,10 @@ An AI-powered cybersecurity threat hunting assistant that integrates with **Azur
 
 #### **Azure Sentinel**
 - SecurityIncident
+
+
+
+
+## 🙏 Special Thanks
+
+Special thanks to **[Josh Madakor](https://github.com/joshmadakor0)** and his incredible **[Cyber Range Community](https://www.skool.com/cyber-range/about)** for inspiring this project and fostering innovation in cybersecurity education and tooling.
