@@ -35,7 +35,36 @@ An AI-powered cybersecurity threat hunting assistant that integrates with **Azur
 - SecurityIncident
 
 
+## 🛠️ Installation & Setup
 
+### **Prerequisites:**
+- **Python 3.8+**
+- **Azure CLI**
+- **Azure Log Analytics Workspace ID**
+- **API Keys**: OpenAI, VirusTotal
+
+### **Step 1: Install Python Dependencies**
+```bash
+git clone https://github.com/yourusername/agentic-soc-analyst.git
+cd agentic-soc-analyst
+pip install -r requirements.txt
+```
+
+### **Step 2: Install & Configure Azure CLI**
+# Windows: Download from https://aka.ms/installazurecliwindows
+# macOS: brew install azure-cli  
+# Linux: curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
+
+# Authenticate with Azure
+az login
+
+### **Step 3: Configure API Keys**
+
+Add OpenAI, VirusTotal API keys and Log Analytics Workspace ID within secrets_.py
+
+### **Step 4: Run**
+# Run the SOC Analyst
+python main.py
 
 ## 🙏 Special Thanks
 
