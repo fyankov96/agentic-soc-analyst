@@ -16,20 +16,20 @@ An AI-powered cybersecurity threat hunting assistant that integrates with **Azur
 ### **Azure Log Analytics Workspace - Supported Tables:**
 
 #### **Microsoft Defender for Endpoint (MDE)**
-- **DeviceProcessEvents**
-- **DeviceNetworkEvents**
-- **DeviceLogonEvents**
-- **DeviceFileEvents**
-- **DeviceRegistryEvents**
-- **AlertInfo**
-- **AlertEvidence**
+- DeviceProcessEvents
+- DeviceNetworkEvents
+- DeviceLogonEvents
+- DeviceFileEvents
+- DeviceRegistryEvents
+- AlertInfo
+- AlertEvidence
 
 #### **EntraID & Activity**
 - SigninLogs 
 - AzureActivity
 
-#### **Azure Network & Security**
-- **AzureNetworkAnalytics_CL**
+#### **Azure Network**
+- AzureNetworkAnalytics_CL
 
 #### **Azure Sentinel**
 - SecurityIncident
