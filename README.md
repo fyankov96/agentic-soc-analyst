@@ -1,6 +1,6 @@
 # 🕵️ Agentic SOC Analyst
 
-An AI-powered cybersecurity threat hunting assistant that integrates with **Azure Sentinel** and **VirusTotal** to provide comprehensive security analysis. The tool pulls data directly from your **Azure Log Analytics Workspace** and enriches findings with threat intelligence.
+An AI-powered threat hunting assistant that integrates with **Azure Sentinel** and **VirusTotal** to provide comprehensive security analysis. The tool pulls data directly from your **Azure Log Analytics Workspace** and enriches findings with threat intelligence.
 
 <img width="2435" height="1150" alt="Screenshot 2025-09-07 220916" src="https://github.com/user-attachments/assets/0298dde3-e258-459a-aa3f-26eee47b6c93" />
 
