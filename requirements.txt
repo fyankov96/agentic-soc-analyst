@@ -1,0 +1,12 @@
+# Core AI and OpenAI
+openai>=1.0.0
+
+# Azure SDK components
+azure-identity>=1.15.0
+azure-monitor-query>=1.2.0
+
+# HTTP requests for VirusTotal API
+requests>=2.31.0
+
+# Terminal colors and formatting
+colorama>=0.4.6
