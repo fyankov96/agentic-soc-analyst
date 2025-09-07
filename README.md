@@ -24,7 +24,7 @@ An AI-powered cybersecurity threat hunting assistant that integrates with **Azur
 - AlertInfo
 - AlertEvidence
 
-#### **EntraID & Activity**
+#### **Entra ID & Activity**
 - SigninLogs 
 - AzureActivity
 
