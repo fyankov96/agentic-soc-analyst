@@ -73,7 +73,8 @@ python main.py
 ## 🎬 Demo & Use Case Examples
 
 ### **Watch the Demo**
-[![Agentic SOC Analyst Demo](https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge&logo=youtube)](YOUR_VIDEO_URL_HERE)
+
+https://github.com/user-attachments/assets/54e1712e-7d5f-49bc-833e-d287c20928a2
 
 ### **Real-World Use Cases**
 
