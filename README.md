@@ -70,6 +70,23 @@ Add OpenAI, VirusTotal API keys and Log Analytics Workspace ID within `secrets_.
 python main.py
 ```
 
+## 🎬 Demo & Use Case Examples
+
+### **Watch the Demo**
+[![Agentic SOC Analyst Demo](https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge&logo=youtube)](YOUR_VIDEO_URL_HERE)
+
+### **Real-World Use Cases**
+
+#### **🚨 Incident Investigation**
+> "Can you give me an update on Sentinel Incident #10860 from 2 days ago? I'd like to know its current status"
+
+#### **👤 User Compromise Assessment**
+> "I'm worried that john.smith@example.com might be compromised. Can you take a look at the past 7 days of sign-in and audit activity?"
+
+#### **🌍 Anomaly Detection**
+> "Can you check SigninLogs for the past 2 hours and tell me if we've had any failed logins coming from locations that look unusual?"
+
+
 ## 🙏 Special Thanks
 
 Special thanks to **[Josh Madakor](https://github.com/joshmadakor0)** and his incredible **[Cyber Range Community](https://www.skool.com/cyber-range/about)** for inspiring this project and fostering innovation in cybersecurity education and tooling.
