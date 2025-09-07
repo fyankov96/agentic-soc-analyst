@@ -60,11 +60,13 @@ Download and install Azure CLI, then authenticate with Azure using `az login`
 
 ### **Step 3: Configure API Keys**
 
-Add OpenAI, VirusTotal API keys and Log Analytics Workspace ID within secrets_.py
+Add OpenAI, VirusTotal API keys and Log Analytics Workspace ID within `secrets_.py`
 
 ### **Step 4: Run**
+```bash
 # Run the SOC Analyst
 python main.py
+```
 
 ## 🙏 Special Thanks
 
