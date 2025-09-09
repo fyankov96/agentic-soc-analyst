@@ -76,7 +76,6 @@ python main.py
 
 ### **Watch the Demo**
 
-https://github.com/user-attachments/assets/54e1712e-7d5f-49bc-833e-d287c20928a2
 
 ### **Real-World Use Cases**
 
