@@ -74,8 +74,10 @@ python main.py
 
 ## 🎬 Demo & Use Case Examples
 
-### **Watch the Demo**
-
+<img width="1551" height="810" alt="Screenshot 2025-09-12 151347" src="https://github.com/user-attachments/assets/f880f64b-f0e1-44ec-bbd8-5585090a4069" />
+<img width="3047" height="1057" alt="Screenshot 2025-09-12 151432" src="https://github.com/user-attachments/assets/53b77cc6-d5e2-467a-93be-dee9f8d62f0b" />
+<img width="3046" height="982" alt="Screenshot 2025-09-12 151521" src="https://github.com/user-attachments/assets/6b71fa2e-51a2-4aa4-ae42-815c1bc9764b" />
+<img width="612" height="1065" alt="Screenshot 2025-09-12 151548" src="https://github.com/user-attachments/assets/47f76aa6-2b94-40cc-9f27-3f69aa9cd694" />
 
 ### **Real-World Use Cases**
 
